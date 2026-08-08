@@ -1,2 +1,9 @@
-# website-project
-Param Dairy is a trusted dairy products brand offering fresh, nutritious and quality dairy products for families and businesses. Explore our range of dairy products, learn more about our quality standards, and discover more about Param Dairy and our commitment to delivering wholesome dairy products.
+# Param Dairy
+
+Param Dairy is a trusted dairy products brand offering fresh, nutritious and quality dairy products for families and businesses. We are committed to providing wholesome dairy products while maintaining high standards of quality and customer satisfaction.
+
+## Visit Our Website
+
+Learn more about Param Dairy and explore our dairy products:
+
+[Visit Param Dairy](https://paramdairy.in)
